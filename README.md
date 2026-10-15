@@ -10,7 +10,7 @@
 <br />
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="shreeyam-profile.jpeg" width="150" alt="Shreeyam's profile photo" style="border-radius:50%" />
+  <img src="./asset/shreeyam-profile.jpeg" width="150" alt="Shreeyam's profile photo" style="border-radius:50%" />
 </a>
 
 <br />
