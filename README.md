@@ -1,91 +1,85 @@
-<!--
-  GitHub Profile README
-  To use: create a PUBLIC repository named exactly after your GitHub username,
-  then copy this file and the assets/ folder into it.
-  Replace ShreeyamAI in the social links once you choose your handle.
--->
-
 <div align="center">
 
-<a href="https://github.com/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:172554,100:7c3aed&text=SHREEYAM&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20ONE%20COMMIT%20AT%20A%20TIME&descAlignY=60&descSize=14&animation=twinkling" width="100%" alt="Animated Shreeyam banner" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,35:111c4e,70:5b21b6,100:06b6d4&text=SHREEYAM&fontColor=ffffff&fontSize=68&fontAlignY=38&desc=CURIOUS%20MIND.%20BUILDER%20MODE%3A%20ON.&descAlignY=60&descSize=16&animation=twinkling" width="100%" alt="Animated neon Shreeyam banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=67E8F9&center=true&vCenter=true&width=700&lines=Frontend+%2B+Python;Data+Science+%2B+AI%2FML;Learning+by+building+real+things;Curiosity+in+%E2%86%92+Code+out" alt="Animated typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=500&color=67E8F9&center=true&vCenter=true&width=760&lines=FRONTEND+%E2%9C%A6+PYTHON;DATA+SCIENCE+%E2%9C%A6+AI%2FML;Learning+in+public%2C+building+for+real;Ideas+in.+Experiments+out." alt="Animated typing tagline" />
 
 <br />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="./assets/shreeyam-profile.jpeg" width="150" alt="Shreeyam's profile photo" style="border-radius:50%" />
-</a>
+<img src="./assets/shreeyam-animated-avatar.svg" width="230" alt="Shreeyam's animated neon portrait" />
 
-<br />
+### `SYSTEM ONLINE` · Hello, I’m **Shreeyam** 👋
+**Learning to build useful things where interfaces, data, and AI meet.**
 
-### `HELLO, WORLD!` 👋
-**I’m Shreeyam** — exploring the intersection of thoughtful interfaces, Python, data, and intelligent systems.
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore my work" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/FOLLOW%20THE%20JOURNEY-111827?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="Follow the journey" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20THE%20PROJECTS-111827?style=for-the-badge&logo=github&logoColor=67e8f9" alt="Explore projects" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/FOLLOW%20THE%20BUILD-111827?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="Follow on GitHub" /></a>
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="190" alt="Animated coding scene" />
-
-## `> whoami`
+## `01 / PLAYER PROFILE`
 
 ```python
 class Shreeyam:
-    currently_learning = ["Frontend", "Python", "Data Science", "AI / ML"]
-    motto = "Learn it. Build it. Make it useful."
+    status = "learning by building"
+    quests = ["Frontend", "Python", "Data Science", "AI / ML"]
+    rule = "Stay curious. Ship small. Improve often."
 ```
 
-I’m on a journey to turn curiosity into projects: crafting web experiences, learning how to work with data, and exploring how machine learning can solve real problems.
+Currently exploring how to turn ideas into clear interfaces, useful data projects, and practical AI/ML experiments. This profile is my public learning log: experiments, progress, and the things I build along the way.
 
-<br clear="right" />
-
-## `> interests --all`
+## `02 / SKILL TREE`
 
 <div align="center">
 
-| ✨ Frontend | 🐍 Python | 📊 Data Science | 🤖 AI / ML |
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" alt="HTML, CSS, JavaScript and Python icons" />
+
+| 🌐 FRONTEND | 🐍 PYTHON | 📊 DATA SCIENCE | 🤖 AI / ML |
 |:--:|:--:|:--:|:--:|
-| Interfaces that feel great | Practical, readable code | Finding signal in data | Exploring intelligent tools |
+| Learning to craft polished web experiences | Writing practical, readable code | Exploring data and finding patterns | Experimenting with intelligent systems |
 
 </div>
 
-## `> current_mission`
+## `03 / ACTIVE QUESTS`
 
-```text
-[████████████░░░░░░░░] learning in public
-```
-
-- 🧪 Building projects to make new concepts stick
-- 🌱 Growing from foundations toward full-stack and ML projects
-- ⚡ Interested in ideas where design, data, and code meet
-- 🤝 Open to learning, collaboration, and kind feedback
-
-## `> featured_projects`
-
-> The best work belongs here. Pin your strongest repositories on your profile and replace these prompts with real projects.
-
-| Project | What it does | Link |
-|:--|:--|:--:|
-| **Your standout project** | One sentence on the problem it solves and what makes it useful. | [View →](https://github.com/YOUR_GITHUB_USERNAME) |
-| **A data / ML project** | Share the dataset or question, your approach, and the result. | [View →](https://github.com/YOUR_GITHUB_USERNAME) |
-| **A frontend project** | Show a live demo and a screenshot of the experience. | [View →](https://github.com/YOUR_GITHUB_USERNAME) |
-
-## `> connect`
+- `01` Build small projects that make each new concept stick.
+- `02` Grow my frontend and Python foundations through practice.
+- `03` Explore data science and machine learning one experiment at a time.
+- `04` Share what I learn and keep improving in public.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-0b1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br />
-
-<sub>Thanks for stopping by. Stay curious, keep building, and make the next commit count. ✨</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:050816&height=100&section=footer" width="100%" alt="Animated footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=640&lines=Curiosity+%E2%86%92+experiments;Experiments+%E2%86%92+projects;Projects+%E2%86%92+progress;Next+commit%3A+in+progress..." alt="Animated learning journey" />
 
 </div>
+
+## `04 / FEATURED BUILDS`
+
+> Pin your real repositories on your profile, then replace these examples with their names, what they do, and links. A live demo or screenshot makes each project stand out.
+
+| 🧪 BUILD | ⚡ WHAT IT DOES | 🔗 LINK |
+|:--|:--|:--:|
+| **Your standout project** | A one-line description of the problem it solves. | [Explore →](https://github.com/YOUR_GITHUB_USERNAME) |
+| **Data / ML experiment** | The question, data, and result you explored. | [Explore →](https://github.com/YOUR_GITHUB_USERNAME) |
+| **Frontend creation** | A quick description plus a live demo link. | [Explore →](https://github.com/YOUR_GITHUB_USERNAME) |
+
+## `05 / COMMIT TO CURIOSITY`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240" alt="Animated pixel art coding scene" />
+
+### `BUILD // LEARN // REPEAT`
+
+Open to learning together, feedback, and beginner-friendly collaborations.
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-FIND%20MY%20WORK-0b1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+
+<sub>Thanks for visiting my corner of the internet. Keep making cool things. ✨</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:5b21b6,100:050816&height=130&section=footer&animation=twinkling" width="100%" alt="Animated neon footer" />
+
+</div>
+
+<!-- Replace every YOUR_GITHUB_USERNAME with your exact GitHub handle. Keep the assets/ folder beside this README. -->
