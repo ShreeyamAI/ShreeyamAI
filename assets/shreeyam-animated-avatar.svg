@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 520" role="img" aria-label="Shreeyam neon portrait with animated orbit rings">
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a855f7"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="photo"><circle cx="260" cy="260" r="196"/></clipPath>
+  </defs>
+  <circle cx="260" cy="260" r="228" fill="none" stroke="#22d3ee" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="260" cy="260" r="213" fill="none" stroke="url(#ring)" stroke-width="5" stroke-dasharray="220 70 55 90" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="0 260 260" to="360 260 260" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="260" cy="260" r="200" fill="none" stroke="#a855f7" stroke-width="3" stroke-dasharray="24 45" opacity=".85">
+    <animateTransform attributeName="transform" type="rotate" from="360 260 260" to="0 260 260" dur="13s" repeatCount="indefinite"/>
+  </circle>
+  <image href="shreeyam-neon-portrait.png" x="64" y="64" width="392" height="392" preserveAspectRatio="xMidYMid slice" clip-path="url(#photo)"/>
+  <circle cx="260" cy="260" r="196" fill="none" stroke="url(#ring)" stroke-width="4" filter="url(#glow)"/>
+  <circle cx="260" cy="32" r="7" fill="#67e8f9" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="1.4s" repeatCount="indefinite"/></circle>
+</svg>
