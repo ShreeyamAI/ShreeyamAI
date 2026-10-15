@@ -1,3 +1,9 @@
+<!--
+  GitHub Profile README
+  To use: create a PUBLIC repository named exactly after your GitHub username,
+  then copy this file and the assets/ folder into it.
+  Replace ShreeyamAI in the social links once you choose your handle.
+-->
 
 <div align="center">
 
@@ -10,7 +16,7 @@
 <br />
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="./asset/shreeyam-profile.jpeg" width="150" alt="Shreeyam's profile photo" style="border-radius:50%" />
+  <img src="./assets/shreeyam-profile.jpeg" width="150" alt="Shreeyam's profile photo" style="border-radius:50%" />
 </a>
 
 <br />
