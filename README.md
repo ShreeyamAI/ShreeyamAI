@@ -6,8 +6,7 @@
 
 <br />
 
-<img src="./assets/shreeyam-animated-avatar.svg" width="230" alt="Shreeyam's animated neon portrait" />
-
+<img src="./assets/shreeyam-neon-portrait.png" width="230" alt="Shreeyam" />
 ### `SYSTEM ONLINE` · Hello, I’m **Shreeyam** 👋
 **Learning to build useful things where interfaces, data, and AI meet.**
 
